@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**MahanChavoshian/MahanChavoshian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/MahanChavoshian/MahanChavoshian/assets/127243438/5d05e064-5746-4c33-9de8-125adefc40d3)" alt="Photo">
 
-Here are some ideas to get you started:
+<h2 align="center">I'm Mahan Chavoshian🤖</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">- 🌱 I’m currently learning Python.</p>
+<p align="left">- 👯 I’m looking to collaborate on Python.</p>
+<p align="left">- 🤔 I am looking to help new people.</p>
+<p align="left">- 💬 Ask me about technology.</p>
+<p align="left">- 📫 How to reach me: mahanchavoshian@gmail.com.</p>
+<p align="left">- ⚡ Fun fact: I always like to learn new things.</p>
+
+<h2 align="left">Connect with me:</h2>
+
+<a><img src="https://github.com/MahanChavoshian/MahanChavoshian/blob/main/image/gmail.jpg?raw=true"></a>
+
+<h2 align="left">Programming: </h2>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+
+
