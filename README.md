@@ -1,7 +1,6 @@
 # Hi there 👋
 
-<img src="https://github.com/MahanChavoshian/MahanChavoshian/assets/127243438/f94ccbbb-f7fb-48ba-9cb0-349a63fa46e4)
-" alt="Photo">
+<img src="https://github.com/MahanChavoshian/MahanChavoshian/assets/127243438/f94ccbbb-f7fb-48ba-9cb0-349a63fa46e4)" alt="Photo">
 
 <h2 align="center">I'm Mahan Chavoshian🤖</h2>
 
