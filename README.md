@@ -13,7 +13,8 @@
 
 <h2 align="left">Connect with me:</h2>
 
-<a><img src="https://github.com/MahanChavoshian/MahanChavoshian/blob/main/image/gmail.jpg?raw=true"></a>
+<a href=""><img src="https://github.com/MahanChavoshian/MahanChavoshian/blob/main/image/icons8-instagram-100.png?raw=true"></a>
+
 
 <h2 align="left">Programming: </h2>
 
