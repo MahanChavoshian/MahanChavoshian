@@ -13,10 +13,7 @@
 
 <h2 align="left">Connect with me:</h2>
 
-<a href=""><img src="https://github.com/MahanChavoshian/MahanChavoshian/blob/main/image/instagram.png?raw=true"></a>
-
-<a href=""><img src="https://github.com/MahanChavoshian/MahanChavoshian/blob/main/image/twitter.png?raw=true"></a>
-
+<a href=""><img src="https://github.com/MahanChavoshian/MahanChavoshian/blob/main/image/instagram.png?raw=true"></a> <a href=""><img src="https://github.com/MahanChavoshian/MahanChavoshian/blob/main/image/twitter.png?raw=true"></a>
 
 <h2 align="left">Programming: </h2>
 
